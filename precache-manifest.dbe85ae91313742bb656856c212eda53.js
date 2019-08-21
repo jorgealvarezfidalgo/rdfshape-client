@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2f4ba1360ea92177ced03c075f06a38",
+    "revision": "caf322fee8434167297900ecb79dcaab",
     "url": "/rdfshape-client/index.html"
   },
   {

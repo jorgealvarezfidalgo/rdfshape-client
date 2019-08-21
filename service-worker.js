@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rdfshape-client/precache-manifest.2913ce47e9b68f407a0db3f481349a1b.js"
+  "/rdfshape-client/precache-manifest.dbe85ae91313742bb656856c212eda53.js"
 );
 
 self.addEventListener('message', (event) => {
